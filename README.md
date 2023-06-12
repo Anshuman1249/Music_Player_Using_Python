@@ -30,6 +30,8 @@ GUI Display: The player's GUI displays information about the currently playing t
 Clone the repository:
 git clone https://github.com/your-username/music-player.git
 
+do Download or git clone the play,pause,next,previous buttons 
+
 Add music files:
 Place your music files in a directory accessible to the Music Player. Update the config.json file with the path to this directory.
 
