@@ -11,7 +11,7 @@ The Music Player is a Python-based application that allows users to play and man
 
 3. Audio Controls: It provides controls for adjusting volume, seeking to a specific time in the track, and displaying track information.
 
-4. Audio Format Support: The player supports popular audio formats, including MP3, WAV, FLAC, OGG, and more.
+4. Audio Format Support: The player supports popular audio format, including MP3.
 
 5. User-friendly Interface: The application offers an intuitive graphical user interface (GUI) for easy navigation and control.
 
