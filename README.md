@@ -1,7 +1,7 @@
 # Music-Player
 Music Player
 Description
-The Music Player is a Python-based application that allows users to play and manage their music collection. It provides a user-friendly interface to browse, select, and play audio files, supporting various formats such as MP3, WAV, FLAC, and more.
+The Music Player is a Python-based application that allows users to play and manage their music collection. It provides a user-friendly interface to browse, select, and play audio files, supporting format such as MP3.
 
 ## Key Features
 
