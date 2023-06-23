@@ -72,7 +72,7 @@ organise_menu = Menu(menubar, tearoff=False)
 organise_menu.add_command(label='Select Folder', command=load_music)
 menubar.add_cascade(label='organise', menu=organise_menu)
 
-songlist = Listbox(root, bg="white", fg="black", width=100, height=12)
+songlist = Listbox(root, bg="black", fg="black", width=100, height=12)
 songlist.pack(pady=10)
 
 play_btn_img = PhotoImage(file='//home//sasuke//py//music player//play.png')
